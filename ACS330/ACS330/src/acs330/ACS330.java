@@ -12,6 +12,9 @@ package acs330;
  * @author sebju
  * 
  * test change 2
+ * 
+ * 
+ * Test change three to ensure it all works
  */
 public class ACS330 {
 
