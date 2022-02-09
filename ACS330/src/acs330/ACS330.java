@@ -8,6 +8,7 @@ package acs330;
 /**
  *
  * @author sebju
+ *
  */
 public class ACS330 {
 
